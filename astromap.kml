@@ -3,227 +3,19 @@
 <Document>
   <name>Astronomical Observatories</name>
   <description><![CDATA[Geocoded location, altitude, IAU code, principal instruments, organization, targets/science, and photo of selected astronomical observatories.]]></description>
-  <Style id="style3">
+  <!-- often, pinpoint is not placed on coordinates. so may be best to let apps place pins. i've tried these... -->
+  <Style id="blue">
     <IconStyle>
       <Icon>
-        <href></href>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
+        <!-- etc: <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href> -->
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style12">
+  <Style id="style_IAU_000">
     <IconStyle>
       <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style18">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style32">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style25">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style10">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style16">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style11">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style2">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style26">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style29">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style14">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style5">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style15">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style17">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style4">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style1">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style27">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style28">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style23">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style7">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style22">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style20">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style19">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style13">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style9">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style31">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style30">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style21">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style24">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style8">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style6">
-    <IconStyle>
-      <Icon>
-        <href></href>
+        <href>https://chart.googleapis.com/chart?chst=d_map_spin&amp;chld=0.6|0|FFFF88|9|_|000</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -231,7 +23,6 @@
   <Placemark>
     <name>Llano de Chajnantor (5 104m) IAU I16</name>
     <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/en/4/4b/Chajnantor2004.jpg" style="width:240px" align="right"> Atacama Desert, Chile | CBI2 1.4mx13, ASTE 10m, APEX 12m, NANTEN2 4m, ACT 6m, QUIET 2mx3+7m, TAO 5mx6, ALMA 12mx50 | International Consortium | Submillimeter Radio Astronomy]]></description>
-    <styleUrl>#style12</styleUrl>
     <Point>
       <coordinates>-67.754997,-23.022778,0.000000</coordinates>
     </Point>
@@ -239,7 +30,6 @@
   <Placemark>
     <name>Mount Graham (3 191m) IAU G83</name>
     <description><![CDATA[<img src="http://thewittyastronomers.files.wordpress.com/2011/08/lbt.jpg" style="width:240px" align="right"> Mount Graham, Arizona USA | LBT 8.4mx2, HHST 10m, VATT 1.8m | Galaxies, Gamma-ray bursts, pulsars]]></description>
-    <styleUrl>#style5</styleUrl>
     <Point>
       <coordinates>-109.892014,32.701302,0.000000</coordinates>
     </Point>
@@ -247,7 +37,6 @@
   <Placemark>
     <name>South African (1 450m) IAU B31</name>
     <description><![CDATA[<img src="http://www.sa-venues.com/things-to-do/northerncape/images/salt-sutherland.jpg" style="width:240px" align="right"> Sutherland, Northern Cape, Africa | SALT 11m, Radcliffe 1.9m | Near-Earth Objects, Extra-solar Planets]]></description>
-    <styleUrl>#style15</styleUrl>
     <Point>
       <coordinates>20.810499,-32.378300,0.000000</coordinates>
     </Point>
@@ -255,7 +44,6 @@
   <Placemark>
     <name>Roque de los Muchachos (2 396m) IAU 950</name>
     <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ing_telescopes_sunset_la_palma_july_2001.jpg/250px-Ing_telescopes_sunset_la_palma_july_2001.jpg" style="width:240px" align="right"> La Palma, Canary Islands, Spain | MAGIC 17m, GTC 10.4m, WHT 4.2m, TNG 3.6m | Instituto de Astrofísica de Canarias | Gran Telescopio Canarias, Isaac Newton Group, High-res Imaging, Spectroscopy, Solar Astronomy]]></description>
-    <styleUrl>#style10</styleUrl>
     <Point>
       <coordinates>-17.883333,28.766666,0.000000</coordinates>
     </Point>
@@ -263,7 +51,6 @@
   <Placemark>
     <name>Cerro La Silla (2 400m) IAU 809</name>
     <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/La_Silla_Telescope_Ring.jpg/800px-La_Silla_Telescope_Ring.jpg" style="width:240px" align="right"> Cerro La Silla, Chile | ESO 3.6m, MPG/ESO 3.2m | Extra-solar planets, Gamma-ray bursts, Supernova]]></description>
-    <styleUrl>#style14</styleUrl>
     <Point>
       <coordinates>-70.731331,-29.261168,0.000000</coordinates>
     </Point>
@@ -271,7 +58,6 @@
   <Placemark>
     <name>Cerro Tololo (2 200m) IAU 807</name>
     <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Tololo_a.JPG/280px-Tololo_a.JPG" style="width:240px" align="right"> La Serena, Chile | VMBT 4m, SOAR 4.1m | Assocation of Universities for Research in Astronomy | National Optical Astronomy Observatory (USA), Optical Imaging, Asteroid Discovery]]></description>
-    <styleUrl>#style11</styleUrl>
     <Point>
       <coordinates>-70.804001,-30.169001,0.000000</coordinates>
     </Point>
@@ -279,7 +65,6 @@
   <Placemark>
     <name>Allegheny (356m) IAU 778</name>
     <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Allegheny_Observatory_2007b.jpg/800px-Allegheny_Observatory_2007b.jpg" style="width:240px" align="right"> Pittsburgh, Pennsylvania USA | 30" Thaw Refractor | University of Pittsburgh]]></description>
-    <styleUrl>#style20</styleUrl>
     <Point>
       <coordinates>-80.020828,40.482525,0.000000</coordinates>
     </Point>
@@ -287,7 +72,6 @@
   <Placemark>
     <name>Yerkes (334m) IAU 754</name>
     <description><![CDATA[<img src="http://astro.uchicago.edu/vtour/outside/aerial1.gif" style="width:240px" align="right"> Williams Bay, Wisconsin USA | Yerkes 40" refractor | University of Chicago]]></description>
-    <styleUrl>#style28</styleUrl>
     <Point>
       <coordinates>-88.556114,42.570278,0.000000</coordinates>
     </Point>
@@ -295,7 +79,6 @@
   <Placemark>
     <name>McDonald (2 103m) IAU 711</name>
     <description><![CDATA[<img src="http://mcdonaldobservatory.org/images/research/waad/d_mcd-1.jpg" style="width:240px" align="right"> Fort Davis, Texas USA | HET 9.2m, HJST 2.7m, OST 2.1 | Imaging, Spectroscopy, Lunar Laser Ranging]]></description>
-    <styleUrl>#style17</styleUrl>
     <Point>
       <coordinates>-104.022499,30.671389,0.000000</coordinates>
     </Point>
@@ -303,7 +86,6 @@
   <Placemark>
     <name>Apache Point (2 788m) IAU 705</name>
     <description><![CDATA[<img src="http://spiff.rit.edu/richmond/sdss/sn_survey/apo.jpg" style="width:240px" align="right"> Sacramento Peak, New Mexico USA | ARC 3.5m, SDSS 2.5m | Astrophysical Research Consortium | Spectroscopic Survey, Astrometry]]></description>
-    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>-105.820274,32.780277,0.000000</coordinates>
     </Point>
@@ -311,7 +93,6 @@
   <Placemark>
     <name>Whipple (2 606m) IAU 696</name>
     <description><![CDATA[<img src="http://farm4.static.flickr.com/3267/3249914700_683475ee56.jpg" style="width:240px" align="right"> Mount Hopkins, Arizona USA | MMT 6.5m, Whipple 10m, VERITAS 12m | Smithsonian Astrophysical Observatory | Gamma-ray Astronomy]]></description>
-    <styleUrl>#style9</styleUrl>
     <Point>
       <coordinates>-110.878334,31.681110,0.000000</coordinates>
     </Point>
@@ -319,7 +100,6 @@
   <Placemark>
     <name>Kitt Peak (2 096m) IAU 695</name>
     <description><![CDATA[<img src="http://btc.montana.edu/ceres/html/MtnQuest/images/kittpeak2.gif" style="width:240px" align="right"> Tohono O'odham Nation, Arizona USA | ARO 12m, Mayall 4m, WIYN 3.5m, KPNO 2.1m, MDM 2.4m, Spacewatch 1.8m | Solar, Galaxies, Spacewatch]]></description>
-    <styleUrl>#style16</styleUrl>
     <Point>
       <coordinates>-111.596664,31.958332,0.000000</coordinates>
     </Point>
@@ -327,7 +107,6 @@
   <Placemark>
     <name>Palomar (1 712m) IAU 675</name>
     <description><![CDATA[<img src="http://astro.caltech.edu/palomar/images/scopes.jpg" style="width:240px" align="right"> San Diego County, California USA | Hale 5.08m, 1.5m, SOT 1.2m | Caltech | Near-Earth Objects, Exoplanets, Kuiper Belt Objects, Galaxies, Quasars, Sky Survey]]></description>
-    <styleUrl>#style24</styleUrl>
     <Point>
       <coordinates>-116.863892,33.355831,0.000000</coordinates>
     </Point>
@@ -335,7 +114,6 @@
   <Placemark>
     <name>Mount Wilson (1 742) IAU 672</name>
     <description><![CDATA[<img src="http://spie.org/Images/Graphics/Newsroom/NewsArticleImages/mtwilsonobs.jpg" style="width:240px" align="right"> Mount Wilson, Los Angeles County, California USA | Hale 1.5m, Hooker 2.5m, ISI 1.65mx3, CHARA 1mx6 | Mount Wilson Institute | Public Outreach]]></description>
-    <styleUrl>#style8</styleUrl>
     <Point>
       <coordinates>-118.061646,34.223759,0.000000</coordinates>
     </Point>
@@ -343,7 +121,6 @@
   <Placemark>
     <name>Lick (1 283m) IAU 662</name>
     <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/8/86/Lick_Observatory_Shane_Telescope.jpg" style="width:240px" align="right"> Mount Hamilton, San Jose, California USA | CDS 3m, APF 2.4m, JLR 91cm, KAIT 76cm, ALN 1m, Cro 90cm, Car 50.8cm | UC Santa Cruz | Solar System, Near-Earth Asteroids, Extra-solar Planets]]></description>
-    <styleUrl>#style18</styleUrl>
     <Point>
       <coordinates>-121.642776,37.341389,0.000000</coordinates>
     </Point>
@@ -351,7 +128,6 @@
   <Placemark>
     <name>Mauna Kea (4 205m) IAU 568</name>
     <description><![CDATA[<img src="http://www.ifa.hawaii.edu/images/aerial-tour/northofcfht-11.jpg" style="width:240px" align="right"> Mauna Kea, Hawai'i USA | CSO 10.4m, CFHT 3.58m, GN 8.1m, IRTF 3m, JCMT 15m, Su 8.2m, SMA 6mx8, UKIRT 3.8m, VLBA 25m, Keck 10mx2 | University of Hawai'i | The Sun, Solar System, Galaxies, Astrobiology]]></description>
-    <styleUrl>#style3</styleUrl>
     <Point>
       <coordinates>-155.473328,19.824444,0.000000</coordinates>
     </Point>
@@ -359,7 +135,6 @@
   <Placemark>
     <name>Air Force Maui (3 058m) IAU 566</name>
     <description><![CDATA[<img src="http://orbitaldebris.jsc.nasa.gov/photogallery/gallarypage/amos.jpg" style="width:240px" align="right"> Mount Haleakala, Hawai'i USA | AEOS 3.67m | US Air Force | Space Surveillance, Near-Earth Asteroid Tracking]]></description>
-    <styleUrl>#style2</styleUrl>
     <Point>
       <coordinates>-156.258057,20.708332,0.000000</coordinates>
     </Point>
@@ -367,7 +142,6 @@
   <Placemark>
     <name>Calar Alto (2 168m) IAU 493</name>
     <description><![CDATA[<img src="http://www.telescopios.org/observatorios_imagenes/Observatorio_de_Calar_Alto.gif" style="width:240px" align="right"> Almería, Spain | MPI-CAHA 3.5m, 2.2m]]></description>
-    <styleUrl>#style1</styleUrl>
     <Point>
       <coordinates>-2.546575,37.220791,0.000000</coordinates>
     </Point>
@@ -375,7 +149,6 @@
   <Placemark>
     <name>Australian (1 165m) IAU 413</name>
     <description><![CDATA[<img src="http://www.aao.gov.au/press/pictures/aat_300_464K.jpg" style="width:240px" align="right"> Coonabarabran, Australia | AAT 3.9m, UKST 1.2m | Imaging, Spectroscopy, Survey, Extra-solar Planets]]></description>
-    <styleUrl>#style4</styleUrl>
     <Point>
       <coordinates>149.066666,-31.276670,0.000000</coordinates>
     </Point>
@@ -383,7 +156,6 @@
   <Placemark>
     <name>Okayama (372m) IAU 371</name>
     <description><![CDATA[<img src="http://www.oao.nao.ac.jp/stockroom/gallery/airialphoto/airialphoto2005-01.jpg" style="width:240px" align="right"> Mt. Chikurin-Ji, Okayama, Japan | GPI Cassegrain 1.88m | Planets, Asteroids, Comets, Galaxies]]></description>
-    <styleUrl>#style29</styleUrl>
     <Point>
       <coordinates>133.594528,34.576611,0.000000</coordinates>
     </Point>
@@ -391,7 +163,6 @@
   <Placemark>
     <name>Beijing (960m) IAU 327</name>
     <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/7/73/Sdle2001_view_from_2_meter2.jpg" style="width:240px" align="right"> Xinglong, Hebei province, China | LAMOST 4.9m | National Astronomical Observatory of China | Galactic specroscopy, Beijing Schmidt Asteroid Program, Tourism]]></description>
-    <styleUrl>#style26</styleUrl>
     <Point>
       <coordinates>117.574997,40.394169,0.000000</coordinates>
     </Point>
@@ -399,7 +170,6 @@
   <Placemark>
     <name>Paranal (2 635m) IAU 309</name>
     <description><![CDATA[<img src="http://www.dailygalaxy.com/photos/uncategorized/2007/08/12/eso_la_silla_observatory.jpg" style="width:240px" align="right"> Cerro Paranal, Chile | VLT 8.2mx4, VISTA 4.1m, VLTS 2.6m | European Southern Observatory | Optical Interferometry, Infrared Survey]]></description>
-    <styleUrl>#style25</styleUrl>
     <Point>
       <coordinates>-70.404167,-24.627222,0.000000</coordinates>
     </Point>
@@ -407,7 +177,6 @@
   <Placemark>
     <name>Las Campanas (2 380m) IAU 304</name>
     <description><![CDATA[<img src="http://csp1.lco.cl/~cspuser1/PUB/PROJ/IMG/TELS/img04.jpg" style="width:240px" align="right"> Cerro Las Campanas, Atacama, Chile | Magellan 6.5mx2, DPT 2.5m, Swope 1m, GMT 8.4mx7 | Carnegie Institution for Science | Magellan Planet Search Survey]]></description>
-    <styleUrl>#style31</styleUrl>
     <Point>
       <coordinates>-70.692223,-29.014999,0.000000</coordinates>
     </Point>
@@ -415,7 +184,6 @@
   <Placemark>
     <name>Pulkovo (85m) IAU 084</name>
     <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pulkovo_observatory_2004.jpg/800px-Pulkovo_observatory_2004.jpg" style="width:240px" align="right"> St. Petersburg, Russia | 25.6" Zeiss Refractor | Russian Academy of Sciences | UNESCO Monument]]></description>
-    <styleUrl>#style19</styleUrl>
     <Point>
       <coordinates>30.326111,59.771667,0.000000</coordinates>
     </Point>
@@ -423,7 +191,6 @@
   <Placemark>
     <name>Potsdam (100m) IAU 042</name>
     <description><![CDATA[<img src="http://images.inmagine.com/400nwm/iris/imagebrokerrm-208/ptg01277887.jpg" style="width:240px" align="right"> Potsdam, Germany | 31" Große Refraktor | Leibniz Institute for Astrophysics]]></description>
-    <styleUrl>#style7</styleUrl>
     <Point>
       <coordinates>13.104167,52.404999,0.000000</coordinates>
     </Point>
@@ -431,7 +198,6 @@
   <Placemark>
     <name>Nice (325m) IAU 020</name>
     <description><![CDATA[<img src="http://fondation-patrimoine.mecenat-total.org/medias/projects/diapo/fiche_projet_39_335.jpg" style="width:240px" align="right"> Mont Gros, Nice, France | 30.3" refractor | CERGA]]></description>
-    <styleUrl>#style22</styleUrl>
     <Point>
       <coordinates>7.299070,43.727440,0.000000</coordinates>
     </Point>
@@ -439,7 +205,6 @@
   <Placemark>
     <name>Paris (179m) IAU 007</name>
     <description><![CDATA[<img src="http://luth.obspm.fr/gammacrnu/documents/medn_img.jpg" style="width:240px" align="right"> Meudon, France | Meudon 33" Great Refractor | French Ministry of Education]]></description>
-    <styleUrl>#style23</styleUrl>
     <Point>
       <coordinates>2.336506,48.836437,0.000000</coordinates>
     </Point>
@@ -447,7 +212,7 @@
   <Placemark>
     <name>Royal Greenwich (66m) IAU 000</name>
     <description><![CDATA[<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Royalobs.jpg/638px-Royalobs.jpg" style="width:240px" align="right"> Greenwich, London, UK | 28" Grubb Refractor | City of London | Tourism]]></description>
-    <styleUrl>#style13</styleUrl>
+    <!-- <styleUrl>#style_IAU_000</styleUrl> -->
     <Point>
       <coordinates>-0.001475,51.477810,0.000000</coordinates>
     </Point>
@@ -455,7 +220,6 @@
   <Placemark>
     <name>Cerro Armazones (3 064m) IAU ???</name>
     <description><![CDATA[<img src="http://www.eso.org/public/archives/images/medium/elt_1_cc_sm_001.jpg" style="width:240px" align="right"> Cerro Armazones, Antofagasta, Chile | EELT 39.3m (planned) | European Southern Observatory | Imaging, Cosmology]]></description>
-    <styleUrl>#style6</styleUrl>
     <Point>
       <coordinates>-70.196388,-24.597500,0.000000</coordinates>
     </Point>
@@ -463,7 +227,6 @@
   <Placemark>
     <name>Maple Ridge (395m) IAU ???</name>
     <description><![CDATA[<img src="http://www.400years.org/pics/thumb/ulo_granite.jpg"> Maple Ridge, British Columbia, Canada | LZT 6m | University of British Columbia | Galaxy spectroscopy, Supernovae]]></description>
-    <styleUrl>#style21</styleUrl>
     <Point>
       <coordinates>-122.573097,49.288101,0.000000</coordinates>
     </Point>
@@ -471,7 +234,6 @@
   <Placemark>
     <name>Starfire Optical Range (1 901m) IAU ???</name>
     <description><![CDATA[<img src="http://www.globalsecurity.org/space/systems/images/sor1.jpg" style="width:240px" align="right"> Kirtland Air Force Base, Albuquerque, New Mexico USA | 3.5m | Space Surveillance, Directed Energy and Adaptive Optics research]]></description>
-    <styleUrl>#style27</styleUrl>
     <Point>
       <coordinates>-106.462601,34.964298,0.000000</coordinates>
     </Point>
@@ -479,7 +241,6 @@
   <Placemark>
     <name>Zelenchukskaya (2 070m) IAU ???</name>
     <description><![CDATA[<img src="http://dic.academic.ru/pictures/enc_colier/0567_001.jpg" style="width:240px" align="right"> Mt Pashtoukov, Caucasus, Russia | RATAN-600 576m, BTA-6 6m, Zeiss 1m | Russian Academy of Sciences | Distant Optical Imaging, Radio Astronomy]]></description>
-    <styleUrl>#style30</styleUrl>
     <Point>
       <coordinates>41.440449,43.646824,0.000000</coordinates>
     </Point>
