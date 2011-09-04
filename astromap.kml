@@ -165,6 +165,13 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Zelenchukskaya (2 070m) IAU 115</name>
+    <description><![CDATA[Mt Pashtoukov, Caucasus, Russia | RATAN-600 576m, BTA-6 6m, Zeiss 1m | Russian Academy of Sciences | Distant Optical Imaging, Radio Astronomy <br /> <img src="http://dic.academic.ru/pictures/enc_colier/0567_001.jpg" style="width:240px">]]></description>
+    <Point>
+      <coordinates>41.440449,43.646824,2070</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Pulkovo (85m) IAU 084</name>
     <description><![CDATA[St. Petersburg, Russia | 25.6" Zeiss Refractor | Russian Academy of Sciences | UNESCO Monument <br /> <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pulkovo_observatory_2004.jpg/800px-Pulkovo_observatory_2004.jpg" style="width:240px">]]></description>
     <Point>
@@ -219,13 +226,6 @@
     <description><![CDATA[Kirtland Air Force Base, Albuquerque, New Mexico USA | 3.5m | Space Surveillance, Directed Energy and Adaptive Optics research <br /> <img src="http://www.globalsecurity.org/space/systems/images/sor1.jpg" style="width:240px">]]></description>
     <Point>
       <coordinates>-106.462601,34.964298,1901</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Zelenchukskaya (2 070m) IAU ???</name>
-    <description><![CDATA[Mt Pashtoukov, Caucasus, Russia | RATAN-600 576m, BTA-6 6m, Zeiss 1m | Russian Academy of Sciences | Distant Optical Imaging, Radio Astronomy <br /> <img src="http://dic.academic.ru/pictures/enc_colier/0567_001.jpg" style="width:240px">]]></description>
-    <Point>
-      <coordinates>41.440449,43.646824,2070</coordinates>
     </Point>
   </Placemark>
 </Document>
