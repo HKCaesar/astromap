@@ -195,7 +195,7 @@
   <Placemark>
     <name>Royal Greenwich (66m) IAU 000</name>
     <description><![CDATA[Greenwich, London, UK | 28" Grubb Refractor | City of London | Tourism <br /> <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Royalobs.jpg/638px-Royalobs.jpg" style="width:240px"> ]]></description>
-    <styleUrl>style.kml#yellow</styleUrl>
+    <styleUrl>https://raw.github.com/siznax/astromap/master/style.kml#yellow</styleUrl>
     <Point>
       <coordinates>-0.001475,51.477810,0.000000</coordinates>
     </Point>

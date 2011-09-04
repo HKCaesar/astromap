@@ -12,7 +12,7 @@ astronomical observatories.
     often hosting many telescopes. 
  *  it is intended to complement more complete observatory maps
     and lists with more or less information in a "short" 
-    summary with a photo.
+    summary and a photo.
  *  it is a subset of:
     *  List of Observatories, Wikipedia
     *  List of largest optical reflecting telescopes, Wikipedia
@@ -20,18 +20,19 @@ astronomical observatories.
     *  List of Radio Telescopes, Wikipedia (TBD)
     *  Large Telescopes, Nine Planets
     *  Historic Astronomical Sites, NOAO
+ *  it is created by humans to be machine readable.
 
 # you can help
 
 if you would like to point out an error, ommission, or contribute 
-a translation, please submit it to <sisney@panix.com>. 
+a translation, please let me know.
 
 if you are a programmer, you can make contributions by forking 
 this code and submitting a patch via Github.
 
 # F.A.Q.
 
- *  **what is the astromap URL?**
+ *  **where can I download the astromap KML?**
     <https://raw.github.com/siznax/astromap/master/astromap.kml>
  *  **how can i view the map in Google Maps?**
     1. Create a map in "My Places" and import the _astromap_ KML file.
