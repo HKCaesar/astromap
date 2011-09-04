@@ -1,0 +1,47 @@
+# astromap
+
+geocoded location, altitude, IAU code, principal instruments, 
+organization, targets/science, and photo of selected 
+astronomical observatories. 
+
+ *  astromap is not a map. it's a description of places in KML
+    which can be loaded into many mapping applications, e.g.
+    Google Maps or Bing Maps.
+ *  it does not contain all known telescopes, nor even all 
+    known observatories. it's a selection of major observatories
+    often hosting many telescopes. 
+ *  it is intended to complement more complete observatory maps
+    and lists with more or less information in a "short" 
+    summary with a photo.
+ *  it is a subset of:
+    *  List of Observatories, Wikipedia
+    *  List of largest optical reflecting telescopes, Wikipedia
+    *  List of largest optical refracting telescopes, Wikipedia
+    *  List of Radio Telescopes, Wikipedia (TBD)
+    *  Large Telescopes, Nine Planets
+    *  Historic Astronomical Sites, NOAO
+
+# you can help
+
+if you would like to point out an error, ommission, or contribute 
+a translation, please submit it to <sisney@panix.com>. 
+
+if you are a programmer, you can make contributions by forking 
+this code and submitting a patch via Github.
+
+# F.A.Q.
+
+ *  **what is the astromap URL?**
+    <https://raw.github.com/siznax/astromap/master/astromap.kml>
+ *  **how can i view the map in Google Maps?**
+    1. Create a map in "My Places" and import the _astromap_ KML file.
+    2. Specify the KML file as a query parameter.
+       <code>http://maps.google.com/maps?q={kml_url}</code>
+    3. Create an HTML page with <code>google.maps.KmlLayer(kml)</code>
+       see eg/layer-google.html
+ *  **how can i view the map in Bing Maps?**
+    1. Specify a Google map URL as a query parameter.
+       <code>http://www.bing.com/maps/?mapurl={gmap_url}</code>
+    2. Create an HTML page with VELayer
+ *  **where is the KMZ file?**
+    1. You can create on on GPS Visualizer
