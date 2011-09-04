@@ -38,11 +38,13 @@ this code and submitting a patch via Github.
     1. Create a map in "My Places" and import the _astromap_ KML file.
     2. Specify the KML file as a query parameter.
        <code>http://maps.google.com/maps?q={kml_url}</code>
+       eg. <http://maps.google.com/maps?q=https://raw.github.com/siznax/astromap/master/astromap.kml>
     3. Create an HTML page with <code>google.maps.KmlLayer(kml)</code>
        see eg/layer-google.html
  *  **how can i view the map in Bing Maps?**
     1. Specify a Google map URL as a query parameter.
        <code>http://www.bing.com/maps/?mapurl={gmap_url}</code>
-    2. Create an HTML page with VELayer
+    2. Create an HTML page with <code>VEShapeSourceSpecification</code>
+       see eg/layer-bing.html
  *  **where is the KMZ file?**
-    1. You can create on on GPS Visualizer
+    1. You can create one on GPS Visualizer.
