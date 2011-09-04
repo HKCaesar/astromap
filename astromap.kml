@@ -95,10 +95,10 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Mount Wilson (1 742) IAU 672</name>
+    <name>Mount Wilson (1 742m) IAU 672</name>
     <description><![CDATA[Mount Wilson, Los Angeles County, California USA | Hale 1.5m, Hooker 2.5m, ISI 1.65mx3, CHARA 1mx6 | Mount Wilson Institute | Public Outreach <br /> <img src="http://spie.org/Images/Graphics/Newsroom/NewsArticleImages/mtwilsonobs.jpg" style="width:240px">]]></description>
     <Point>
-      <coordinates>-118.061646,34.223759,1742) IAU 672</na</coordinates>
+      <coordinates>-118.061646,34.223759,1742</coordinates>
     </Point>
   </Placemark>
   <Placemark>
