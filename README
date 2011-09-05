@@ -9,9 +9,9 @@ astronomical observatories.
     Google Maps or Bing Maps.
  *  it does not contain all known telescopes, nor even all 
     known observatories. it's a selection of major observatories
-    often hosting many telescopes. 
- *  it is intended to complement more complete observatory maps
-    and lists with more or less information in a "short" 
+    often hosting many telescopes.
+ *  it is intended to complement [more complete][1] observatory 
+    maps and lists with more or less information in a short 
     summary and a photo.
  *  it is a subset of:
     *  List of Observatories, Wikipedia
@@ -20,7 +20,8 @@ astronomical observatories.
     *  List of Radio Telescopes, Wikipedia (TBD)
     *  Large Telescopes, Nine Planets
     *  Historic Astronomical Sites, NOAO
- *  it is created by humans to be machine readable.
+
+[1]: http://www.eso.org/~ndelmott/obs_sites.html
 
 # you can help
 
