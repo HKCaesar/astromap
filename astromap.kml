@@ -82,9 +82,16 @@
   </Placemark>
   <Placemark>
     <name>Kitt Peak (2 096m) IAU 695</name>
-    <description><![CDATA[Tohono O'odham Nation, Arizona USA | ARO 12m, Mayall 4m, WIYN 3.5m, KPNO 2.1m, MDM 2.4m, Spacewatch 1.8m | Solar, Galaxies, Spacewatch <br /> <img src="http://btc.montana.edu/ceres/html/MtnQuest/images/kittpeak2.gif" style="width:240px">]]></description>
+    <description><![CDATA[Tohono O'odham Nation, Arizona USA | ARO 12m, Mayall 4m, WIYN 3.5m, KPNO 2.1m, MDM 2.4m, Spacewatch 1.8m | Solar, Galaxies, Spacewatch <br /> <img src="http://www.noao.edu/image_gallery/images/d3/00343x.jpg" style="width:240px">]]></description>
     <Point>
       <coordinates>-111.596664,31.958332,2096</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lowell (2 210m) IAU 690</name>
+    <description><![CDATA[Mars Hill, Flagstaff, Arizona USA | DCT 4.2m, Perkins 1.8m, JSHT 1.05m | Private | Near-Earth Asteroids, Kuiper Belt Survey, Extrasolar Planets, Solar Research, Star Formation <br /> <img src="http://astrogeology.usgs.gov/HotTopics/uploads/telescope.jpg" style="width:240px;">]]</description>
+    <Point>
+      <coordinates>-111.664444,35.202778,2210</coordinates>
     </Point>
   </Placemark>
   <Placemark>
