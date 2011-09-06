@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>Working with Shapes</title>
+      
+      <script type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6.3"></script>
+      
+      <script type="text/javascript">
+         var map;
+         
+         function OnPageLoad()
+         {
+            map = new VEMap('myMap');
+            map.LoadMap();
+            
+            var layer = new VEShapeLayer();
+            // var veLayerSpec = new VEShapeSourceSpecification(VEDataType.VECollection,"98C746DDDC3FE6CA!104", layer);
+            var KML = "https://raw.github.com/siznax/astromap/master/astromap.kml";
+            var veLayerSpec = new VEShapeSourceSpecification(VEDataType.ImportXML, KML, layer);
+            map.ImportShapeLayerData(veLayerSpec);
+         }
+      </script>
+   </head>
+   <body onload="OnPageLoad();">
+      <div id="myMap" style="position:relative;width:640px;height:480px;"></div>
+   </body>
+</html>
