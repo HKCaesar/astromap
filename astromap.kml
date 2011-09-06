@@ -4,13 +4,6 @@
   <name>Astronomical Observatories</name>
   <description><![CDATA[http://github.com/siznax/astromap]]></description>
   <Placemark>
-    <name>Llano de Chajnantor (5 104m) IAU I16</name>
-    <description><![CDATA[Atacama Desert, Chile | CBI2 1.4mx13, ASTE 10m, APEX 12m, NANTEN2 4m, ACT 6m, QUIET 2mx3+7m, TAO 5mx6, ALMA 12mx50 | International Consortium | Submillimeter Radio Astronomy <br> <img src="http://almaobservatory.org/gallery2/main.php?g2_view=core.DownloadItem&amp;g2_itemId=3268&amp;g2_serialNumber=4" style="width:240px">]]></description>
-    <Point>
-      <coordinates>-67.754997,-23.022778,5104</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Mount Graham (3 191m) IAU G83</name>
     <description><![CDATA[Mount Graham, Arizona USA | LBT 8.4mx2, HHST 10m, VATT 1.8m | Galaxies, Gamma-ray bursts, pulsars <br /> <img src="http://thewittyastronomers.files.wordpress.com/2011/08/lbt.jpg" style="width:240px">]]></description>
     <Point>
@@ -377,8 +370,15 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Llano de Chajnantor (5 104m) IAU I16</name>
+    <description><![CDATA[Atacama Desert, Chile | CBI2 1.4mx13, ASTE 10m, APEX 12m, NANTEN2 4m, ACT 6m, QUIET 2mx3+7m, TAO 5mx6, ALMA 12mx50 | International Consortium | Submillimeter Radio Astronomy <br> <img src="http://almaobservatory.org/gallery2/main.php?g2_view=core.DownloadItem&amp;g2_itemId=3268&amp;g2_serialNumber=4" style="width:240px">]]></description>
+    <Point>
+      <coordinates>-67.754997,-23.022778,5104</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Pingtang Radio Observatory (847m)</name>
-    <description><![CDATA[Pingtang County, Guizhou Province, southwest China | 500m single-dish | Chinese Academy of Science | Pulsars, Space Surveillance and Communications<br /><img src="http://www.universetoday.com/wp-content/uploads/2009/01/fast-telescope.jpg" style="width:244px">]]></description>
+    <description><![CDATA[Pingtang County, Guizhou Province, southwest China | FAST 500m single-dish | Chinese Academy of Science | Pulsars, Space Surveillance and Communications<br /><img src="http://www.universetoday.com/wp-content/uploads/2009/01/fast-telescope.jpg" style="width:244px">]]></description>
     <Point>
       <coordinates>106.856667,25.652500,0.000000</coordinates>
     </Point>
