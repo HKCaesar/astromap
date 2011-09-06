@@ -95,6 +95,13 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>USNO Flagstaff Station (2 273m) IAU 689</name>
+    <description><![CDATA[Flagstaff, Arizona USA | NPOI 1.8m x 4, KST 1.55m, DKC 1.3m | U.S. Navy | Astrometry, Astrophysics<br /> <img src="http://ast.noao.edu/img/NPOI.Usic.jpg" style="width:240px;">]]></description>
+    <Point>
+      <coordinates>-111.740278,35.184167,2273</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Palomar (1 712m) IAU 675</name>
     <description><![CDATA[San Diego County, California USA | Hale 5.08m, 1.5m, SOT 1.2m | Caltech | Near-Earth Objects, Exoplanets, Kuiper Belt Objects, Galaxies, Quasars, Sky Survey <br /> <img src="http://astro.caltech.edu/palomar/images/scopes.jpg" style="width:240px">]]></description>
     <Point>
@@ -172,11 +179,25 @@
     </Point>
   </Placemark>
   <Placemark>
+    <name>Vainu Bappu (706m) IAU 220</name>
+    <description><![CDATA[Kavalur, Vellore, Tamil Nadu, India | VBT 2.3m (largest telescope in Asia), Zeiss 1m | Indian Institute of Astrophysics | Optical Imaging of Solar System Objects, Stars, Supernovae, Galaxies <br /> <img src="http://www.indianetzone.com/photos_gallery/31/VBO_21716.jpg" style="width:240px">]]></description>
+    <Point>
+      <coordinates>78.833333,12.566667,706</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>Zelenchukskaya (2 070m) IAU 115</name>
     <description><![CDATA[Mt Pashtoukov, Caucasus, Russia | RATAN-600 576m, BTA-6 6m, Zeiss 1m | Russian Academy of Sciences | Distant Optical Imaging, Radio Astronomy <br /> <img src="http://dic.academic.ru/pictures/enc_colier/0567_001.jpg" style="width:240px">]]></description>
     <Point>
       <coordinates>41.440449,43.646824,2070</coordinates>
     </Point>
+  </Placemark>
+  <Placemark>
+    <name>Crimean (1 500m) IAU 095</name>
+    <description><![CDATA[Nauchny, Crimea, Ukraine | Shajn 2.6m, AZT-11 1.25m, BST-1 | Ministry of the Science and Technology of Ukraine | Astrophysics, Solar Research, Gamma Ray, Satellite Ranging <br /> <img src="http://www.wff44.org/assets/images/4news/URAO.jpg" style="width:240px">]]></description>
+    <Point>
+      <coordinates>44.726667,34.015861,1500</coordinates>
+   </Point>
   </Placemark>
   <Placemark>
     <name>Pulkovo (85m) IAU 084</name>
