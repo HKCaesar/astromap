@@ -26,9 +26,13 @@ astronomical observatories.
 
 # format
 
-the format of observatory descriptions generally follows
+observatory names have the form:
 
-    [ name | instruments | organization | mission ]
+    name | elevation in meters | [IAU code]
+
+observatory descriptions have the form:
+
+    location | instruments | organization | mission
 
 
 # you can help
