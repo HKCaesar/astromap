@@ -1,8 +1,9 @@
 # astromap
 
 geocoded location, altitude, IAU code, principal instruments, 
-organization, targets/science, and photo of selected 
-astronomical observatories. 
+organization, targets/science, website, and photo of selected 
+astronomical observatories. "optical.kml" and "radio.kml" are
+merged into "astromap.kml".
 
  *  astromap is not a map. it's a description of places in KML
     which can be loaded into many mapping applications, e.g.
@@ -17,7 +18,7 @@ astronomical observatories.
     *  List of Observatories, Wikipedia
     *  List of largest optical reflecting telescopes, Wikipedia
     *  List of largest optical refracting telescopes, Wikipedia
-    *  List of Radio Telescopes, Wikipedia (TBD)
+    *  List of Radio Telescopes, Wikipedia
     *  Large Telescopes, Nine Planets
     *  Historic Astronomical Sites, NOAO
 
@@ -32,13 +33,13 @@ observatory names have the form:
 
 observatory descriptions have the form:
 
-    location | instruments | organization | mission
+    location | instruments | organization | mission | website
 
 
 # you can help
 
 if you would like to point out an error, ommission, improvement, 
-or contribute a translation, please let me know.
+or can contribute a translation, please let me know.
 
 if you are a programmer, you can make contributions by forking 
 this code and submitting a patch via Github.
