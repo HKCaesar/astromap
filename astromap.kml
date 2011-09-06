@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
   <name>Astronomical Observatories</name>
-  <description><![CDATA[Geocoded location, altitude, IAU code, principal instruments, organization, targets/science, and photo of selected astronomical observatories.]]></description>
+  <description><![CDATA[Geocoded location, altitude, IAU code, principal instruments, organization, targets/science, and photo of selected astronomical observatories. <br /> http://github.com/siznax/astromap]]></description>
   <Placemark>
     <name>Llano de Chajnantor (5 104m) IAU I16</name>
     <description><![CDATA[Atacama Desert, Chile | CBI2 1.4mx13, ASTE 10m, APEX 12m, NANTEN2 4m, ACT 6m, QUIET 2mx3+7m, TAO 5mx6, ALMA 12mx50 | International Consortium | Submillimeter Radio Astronomy <br /> <img src="http://upload.wikimedia.org/wikipedia/en/4/4b/Chajnantor2004.jpg" style="width:240px">]]></description>
