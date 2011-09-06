@@ -2,19 +2,12 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
   <name>Bay Area Astronomy</name>
-  <description><![CDATA[Astronomical Observatories, Planetariums, Meetings, and Star Parties in the San Francisco Bay Area.]]></description>
+  <description><![CDATA[Astronomical Observatories, Planetariums, Meetings, and Star Parties in the San Francisco Bay Area. <br /> http://github.com/siznax/astromap]]></description>
   <Placemark>
     <name>Chabot Space &amp; Science Center (EBAS)</name>
     <description><![CDATA[Oakland, Skyline Blvd, <a href="http://www.chabotspace.org/">Chabot Space &amp; Science Center</a> - <a href="http://www.eastbayastro.org/">East Bay Astronomical Society</a> - Public Viewing every Fri + Sat 7:30-10:30p, Telescope Making Workshop every Fri<br /><img src="http://www.chabotspace.org/assets/about-chabot/chabot-aerial-medium.jpg" style="width:244px">]]></description>
     <Point>
       <coordinates>-122.180611,37.818642,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Charles F. Hagar Observatory &amp; Planetarium (SF State)</name>
-    <description><![CDATA[San Francisco, SF State University <a href="http://www.physics.sfsu.edu/astronomy/observatory/">Observatory &amp; Planetarium</a><br /><img src="http://www.physics.sfsu.edu/astronomy/images/big1.JPG" style="width:244px">]]></description>
-    <Point>
-      <coordinates>-122.476891,37.723801,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -43,6 +36,13 @@
     <description><![CDATA[Cupertino, De Anza College - <a href="http://planetarium.deanza.edu">Fujitsu Planetarium</a> - Astronomy Shows Sat 5,6,7:30p<br /><img src="http://kathika.com/wp-content/uploads/planet02.jpg" style="width:244px">]]></description>
     <Point>
       <coordinates>-122.045914,37.318962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hagar Observatory &amp; Planetarium (SF State)</name>
+    <description><![CDATA[San Francisco, SF State University <a href="http://www.physics.sfsu.edu/astronomy/observatory/">Charles F. Hagar Observatory &amp; Planetarium</a><br /><img src="http://www.physics.sfsu.edu/astronomy/images/big1.JPG" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.476891,37.723801,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -124,14 +124,14 @@
   </Placemark>
   <Placemark>
     <name>Stanford Dish</name>
-    <description><![CDATA[Palo Alto, Stanford <a href="http://dish.stanford.edu/">Dish</a><br ><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Dish%2C_Stanford_University.jpg/800px-The_Dish%2C_Stanford_University.jpg" style="width:229px">]]></description>
+    <description><![CDATA[Palo Alto, Stanford - <a href="http://dish.stanford.edu/">The Dish</a><br ><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Dish%2C_Stanford_University.jpg/800px-The_Dish%2C_Stanford_University.jpg" style="width:229px">]]></description>
     <Point>
       <coordinates>-122.179565,37.408543,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Stanford Student Observatory</name>
-    <description><![CDATA[Stanford, Palo Alto - <a href="http://www.stanford.edu/dept/astro/">Stanford Astronomy</a><br /><img src="http://www.iscap.columbia.edu/jank/Photo/Astro/Stanford_Observatory/Stanford_Observatory.jpg" style="width:244px">]]></description>
+    <description><![CDATA[Palo Alto, Stanford - <a href="http://www.stanford.edu/dept/astro/">Stanford Astronomy</a><br /><img src="http://www.iscap.columbia.edu/jank/Photo/Astro/Stanford_Observatory/Stanford_Observatory.jpg" style="width:244px">]]></description>
     <Point>
       <coordinates>-122.181755,37.419102,0.000000</coordinates>
     </Point>
