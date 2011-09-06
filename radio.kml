@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Radio Astronomical Observatories</name>
+  <description><![CDATA[http://github.com/siznax/astromap]]></description>
+  <Placemark>
+    <name>Arecibo Observatory (504m) IAU 251</name>
+    <description><![CDATA[Arecibo, Puerto Rico | 305m single-dish | Cornell University, NSF, SRI | Pulsars, Asteroids, Extra-solar Planets, Space Surveillance, SETI, Arecibo message<br><img src="http://www.naic.edu/public/about/photos/hires/ao004.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-66.752777,18.344168,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Effelsberg Radio Telescope (319m)</name>
+    <description><![CDATA[Effelsberg, North Rhine-Westphalia, Germany |&nbsp;100m single-dish |&nbsp;Max Planck Institute for Radio Astronomy | Pulsars, Nebulae, Stellar Formation, Quasars<br><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Radioteleskop_20110820.jpg/800px-Radioteleskop_20110820.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>6.882778,50.524723,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Large Millimetre Telescope (4 640m)</name>
+    <description><![CDATA[Sierra Negra Peak, Puebla, Mexico | LMT 50m single-dish | Instituto Nacional de Astrofísica, Óptica y Electrónica | Interstellar Dust, Star Formation, Extra-solar Planets<br><img src="http://1.bp.blogspot.com/_uSJrEBq-VBw/S6LRonwer5I/AAAAAAAAAHM/YNGKnsWjTqA/s320/lmt-front2.jpg">]]></description>
+    <Point>
+      <coordinates>-97.314720,18.985001,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Yevpatoria Radio Telescope (9m) IAU 255</name>
+    <description><![CDATA[Yevpatoria, Crimea, Ukraine | RT-70 70m single-dish | Center for Deep Space Communication | Deep Space Exploration, Soviet Space Program<br><img src="http://farm5.static.flickr.com/4102/4926966208_ed694c7296.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>33.187359,45.189068,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ussuriysk Astrophysical Observatory (65m)</name>
+    <description><![CDATA[Galenki (Ussuriysk), Primorsky Krai, Russia | RT-70 70m single-dish |  Russian Academy of Sciences | Spacecraft Communications&nbsp;(Mir, ISS, Phobos-Grunt), Near-Earth Asteroids<img src="http://mw2.google.com/mw-panoramio/photos/medium/12558389.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>131.757217,44.024445,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Suffa Radio Observatory (2 324m)</name>
+    <description><![CDATA[Suffa Plateau, Djizzak&nbsp;,Uzbekistan&nbsp;| RT-70 70m single-dish | Astro Space Center FIAN | Astrophysics, Cosmic Background Radiation, Galaxies, Interferometry, Spacecraft Communications<br /><img src="http://asc-lebedev.ru/files/images/suffa/RT70.jpg">]]></description>
+    <Point>
+      <coordinates>68.447777,39.624168,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Green Bank Observatory (808m) IAU 256</name>
+    <description><![CDATA[Green Bank, West Virginia USA | GBT 100m single-dish | (U.S.) National Radio Astronomy Observatory | Pulsars, Star Clusters, Nebulae<br><img src="http://www.cityprofile.com/forum/attachments/west-virginia/10467-greenbank-robert-c.-byrd-green-bank-telescope.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-79.839722,38.433056,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jodrell Bank Observatory (67m)</name>
+    <description><![CDATA[Lower Withington, Cheshire, England | Lovell 70m single-dish, MII 38.1m, 13m, 7m | University of Manchester | Pulsars, Cosmic Radiation, Galaxies, Masers, Star Formation, Nebulae<br><img src="http://i.telegraph.co.uk/multimedia/archive/01860/jodrell-bank_1860487i.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-2.307150,53.237000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parkes Observatory (324m)</name>
+    <description><![CDATA[Parkes, New South Wales, Australia | PRT 64m single-dish | Australia Telescope National Facility | Spacecraft Communications (Apollo 11), Galaxy Surveys, Pulsars<br><img src="http://upload.wikimedia.org/wikipedia/commons/4/4b/Parkes.arp.750pix.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>148.262299,-32.999943,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paul Wild Observatory (213m)</name>
+    <description><![CDATA[Narrabri, New South Wales, Australia | ATCA 22m x 6 | Australia National Telescope Facility | Nebulae, Pulsars, Black Holes, Cosmic Radiation<br><img src="http://www.narrabri.atnf.csiro.au/public/atca_image.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>149.561996,-30.313999,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hat Creek Radio Observatory (1 280m) </name>
+    <description><![CDATA[Hat Creek, Shasta County, California USA | ATA(-42) 7m x 42 | SETI &amp; UC Berkeley | Astronomical Observation, SETI<br><img src="http://www.wired.com/images_blogs/wiredscience/2011/06/ATA_pix1.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-121.470001,40.817001,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Owens Valley Radio Observatory  (2 196m)</name>
+    <description><![CDATA[Bishop, California USA | 10.4m x 6, 6.1m x 9, 3.5m x 8 | CARMA Consortium | Hi-res Astronomical Imaging<br><img src="http://www.icrar.org/__data/assets/image/0011/1045487/DBock-CARMA.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-118.141762,37.280441,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Giant Meterwave Observatory (525m)</name>
+    <description><![CDATA[Junnar District, Pune State, India | GMRT 45m x 30 | (India) National Center for Radio Astrophysics | Galaxy Formation, Star Formation, Pulsars, Supernova, Solar Physics<br><img src="http://univ.tifr.res.in/gs2010/Gallery/images/019-GMRT,%20Pune.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>74.049744,19.096518,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Molonglo Observatory (597m)</name>
+    <description><![CDATA[Queanbeyan, Canberra, Australia | 778m x 12m x 2 | University of Sydney | 843MHz Southern Survey<br><img src="http://sydney.edu.au/images/content/cws/news/newsevents/articles/2005/mar/MOST-pic-GW.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>149.424103,-35.370701,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mullard Radio Astronomy Observatory (12m)</name>
+    <description><![CDATA[Lord's Bridge, Cambridgeshire, England | 1 Mile Telescope (18.3m x 3), 5 Km Ryle Telescope, MERLIN 32m single-dish | University of Cambridge | Astrophysics<br><img src="http://upload.wikimedia.org/wikipedia/commons/f/f5/Mrao_1_mile.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>0.032640,52.167400,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Very Large Array (2 124m)</name>
+    <description><![CDATA[Socorro County, New Mexico USA | 25m x 27 | (U.S.) National Radio Astronomy Observatory | Galaxies, Quasars, Pulsars, Supernova, GRBs, Masers, Black Holes, Galaxies, Spacecraft Communication<br><img src="http://www.aoc.nrao.edu/intro/vlapix/looksouth.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-107.618347,34.078968,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Westerbork Synthesis Radio Observatory (17m)</name>
+    <description><![CDATA[Westerbork, Midden-Drinthe, Netherlands | 25m x 14 | ASTRON | Very Long Baseline Interferometry<br><img src="http://www.epta.eu.org/images/telescopes/wsrt_thumb.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>6.603333,52.914722,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pingtang Radio Observatory (847m)</name>
+    <description><![CDATA[Pingtang County, Guizhou Province, southwest China | 500m single-dish | Chinese Academy of Science | Pulsars, Space Surveillance and Communications<br /><img src="http://www.universetoday.com/wp-content/uploads/2009/01/fast-telescope.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>106.856667,25.652500,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SKA Western Australia: Murchison (360m)</name>
+    <description><![CDATA[Western Australia, Australia | 512 "tiles"&nbsp;| Commonwealth Scientific and Industrial Research Organisation |&nbsp;<a href="http://www.skatelescope.org/">Square Kilometer Array</a>&nbsp;testbed:&nbsp;General Relativity, Dark Matter, Cosmology, Cosmic Magnetism, SETI<br><img src="http://upload.wikimedia.org/wikipedia/commons/d/d9/SKA_overview.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>116.533356,-26.983353,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SKA South Africa: MeerKAT (1 055m)</name>
+    <description><![CDATA[Northern Cape, South Africa | 13.5m x 64 array | National Research Foundation of South Africa |  Square Kilometer Array testbed: General Relativity, Dark Matter, Cosmology, Cosmic Magnetism, SETI<br><img src="http://upload.wikimedia.org/wikipedia/commons/4/4f/Kat-7_aerial_view.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>21.329988,-30.830025,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Primeval Structure Telescope (2 500m)</name>
+    <description><![CDATA[Ulastai, Xinjiang, China | 21cm Array | National Astronomical Observatory of China | Early Universe<br /><img src="http://upload.wikimedia.org/wikipedia/en/e/e8/21cma.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>82.965279,43.830002,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
