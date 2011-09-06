@@ -89,7 +89,7 @@
   </Placemark>
   <Placemark>
     <name>Giant Meterwave Observatory (525m)</name>
-    <description><![CDATA[Junnar District, Pune State, India | GMRT 45m x 30 | (India) National Center for Radio Astrophysics | Galaxy Formation, Star Formation, Pulsars, Supernova, Solar Physics<br><img src="http://univ.tifr.res.in/gs2010/Gallery/images/019-GMRT,%20Pune.jpg" style="width:244px">]]></description>
+    <description><![CDATA[Junnar District, Pune State, India | GMRT 45m x 30 | (India) National Center for Radio Astrophysics | Galaxy Formation, Star Formation, Pulsars, Supernovae, Solar Physics<br><img src="http://univ.tifr.res.in/gs2010/Gallery/images/019-GMRT,%20Pune.jpg" style="width:244px">]]></description>
     <Point>
       <coordinates>74.049744,19.096518,0.000000</coordinates>
     </Point>
@@ -110,7 +110,7 @@
   </Placemark>
   <Placemark>
     <name>Very Large Array (2 124m)</name>
-    <description><![CDATA[Socorro County, New Mexico USA | 25m x 27 | (U.S.) National Radio Astronomy Observatory | Galaxies, Quasars, Pulsars, Supernova, GRBs, Masers, Black Holes, Galaxies, Spacecraft Communication<br><img src="http://www.aoc.nrao.edu/intro/vlapix/looksouth.jpg" style="width:244px">]]></description>
+    <description><![CDATA[Socorro County, New Mexico USA | 25m x 27 | (U.S.) National Radio Astronomy Observatory | Galaxies, Quasars, Pulsars, Supernovae, GRBs, Masers, Black Holes, Galaxies, Spacecraft Communication<br><img src="http://www.aoc.nrao.edu/intro/vlapix/looksouth.jpg" style="width:244px">]]></description>
     <Point>
       <coordinates>-107.618347,34.078968,0.000000</coordinates>
     </Point>
