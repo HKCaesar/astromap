@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Bay Area Astronomy</name>
+  <description><![CDATA[Astronomical Observatories, Planetariums, Meetings, and Star Parties in the San Francisco Bay Area.]]></description>
+  <Placemark>
+    <name>Chabot Space &amp; Science Center (EBAS)</name>
+    <description><![CDATA[Oakland, Skyline Blvd, <a href="http://www.chabotspace.org/">Chabot Space &amp; Science Center</a> - <a href="http://www.eastbayastro.org/">East Bay Astronomical Society</a> - Public Viewing every Fri + Sat 7:30-10:30p, Telescope Making Workshop every Fri<br /><img src="http://www.chabotspace.org/assets/about-chabot/chabot-aerial-medium.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.180611,37.818642,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Charles F. Hagar Observatory &amp; Planetarium (SF State)</name>
+    <description><![CDATA[San Francisco, SF State University <a href="http://www.physics.sfsu.edu/astronomy/observatory/">Observatory &amp; Planetarium</a><br /><img src="http://www.physics.sfsu.edu/astronomy/images/big1.JPG" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.476891,37.723801,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>College of San Mateo Planetarium (SMCAS)</name>
+    <description><![CDATA[San Mateo, College of San Mateo - <a href="http://www.smcas.com/">San Mateo County Astronomical Society</a><br /><img src="http://www.aplf-planetariums.info/images/membres/san_mateo.jpg">]]></description>
+    <Point>
+      <coordinates>-122.337830,37.537373,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Foothill Observatory (PAS)</name>
+    <description><![CDATA[Los Altos, Foothill College - <a href="http://pastro.org/">Peninsula Astronomical Society</a> Meetings 2nd Fri, Public Viewing Fri 9-10p, Sat 10a-12p<br /><img src="http://upload.wikimedia.org/wikipedia/en/thumb/9/91/FoothillObservatory_wbIMG_1299.jpg/250px-FoothillObservatory_wbIMG_1299.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.131516,37.363125,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Foothills Park Star Party (PAS)</name>
+    <description><![CDATA[Palo Alto, Foothills Park, Vista Hill - <a href="http://pastro.org/">Peninsula Astronomy Society</a> (<a href="http://www.cityofpaloalto.org/depts/csd/news/details.asp?NewsID=1567&amp;TargetID=37">Schedule</a>)<br /><img src="http://www.pastro.org/dnn/Portals/0/EasyFilmStrip/Images/Thumbnail/474/m31_150.gif">]]></description>
+    <Point>
+      <coordinates>-122.180099,37.365601,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fujitsu Planetarium (De Anza College)</name>
+    <description><![CDATA[Cupertino, De Anza College - <a href="http://planetarium.deanza.edu">Fujitsu Planetarium</a> - Astronomy Shows Sat 5,6,7:30p<br /><img src="http://kathika.com/wp-content/uploads/planet02.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.045914,37.318962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Henry Coe Star Party (SJAA)</name>
+    <description><![CDATA[Morgan Hill, Henry Coe State Park Overflow Parking Lot - <a href="http://www.sjaa.net/">San Jose Astronomical Association</a><br /><img src="http://science.kqed.org/quest/files/2009/10/henrycoe3001-300x169.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-121.550972,37.187244,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Houge Park Star Party (SJAA)</name>
+    <description><![CDATA[San Jose, Houge Park - <a href="http://www.sjaa.net/">San Jose Astronomical Association</a> monthly meeting and city star party<br /><img src="http://www.sanjoseca.gov/district10/images/staycation/D9_SanJoseAstronomicalAssociation.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-121.942986,37.257736,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lawrence Hall of Science Planetarium (UC Berkeley)</name>
+    <description><![CDATA[UC Berkeley, Lawrence Hall of Science - <a href="http://lawrencehallofscience.org/visit/events/stargazing">Public Stargazing</a> 3rd Sat<br /><img src="http://www.lawrencehallofscience.org/sites/lawrencehallofscience.org/themes/fusion/fusion_starter_lite/images/sidebars/public-science-center.png" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.246338,37.879330,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Leuschner Observatory (UC Berkeley)</name>
+    <description><![CDATA[Lafayette - UC Berkeley <a href="http://ugastro.berkeley.edu/leuschner/">Undergraduate Astronomy</a> - <a href="http://ugastro.berkeley.edu/leuschner/seti/">Optical SETI</a><br /><img src="http://www.seti.astrodvor.ru/imgnov/lecture_02_02.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.156944,37.918331,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lick Observatory (UC Santa Cruz)</name>
+    <description><![CDATA[San Jose, Mount Hamilton - <a href="http://www.astro.ucsc.edu/">UC Santa Cruz Astronomy</a><br /><img src="http://upload.wikimedia.org/wikipedia/commons/8/86/Lick_Observatory_Shane_Telescope.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-121.642906,37.341412,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Montebello Observing Site (TAC)</name>
+    <description><![CDATA[Palo Alto, Montebello Open Space Preserve - <a href="http://observers.org/">The Astronomy Connection</a> ad hoc star parties<br /><img src="http://xa.yimg.com/kq/groups/2004441/homepage/name/homepage.jpg">]]></description>
+    <Point>
+      <coordinates>-122.178886,37.325558,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Morrison Planetarium (Cal Academy)</name>
+    <description><![CDATA[San Francisco, Golden Gate Park, Cal Academy <a href="http://www.calacademy.org/academy/exhibits/planetarium/">Morrison Planetarium</a><br /><img src="http://www.calacademy.org/academy/exhibits/planetarium/images/planetarium1.jpg">]]></description>
+    <Point>
+      <coordinates>-122.465797,37.770081,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mount Tamalpais Star Party (SFAA)</name>
+    <description><![CDATA[Mt. Tam, Rock Springs Rd - SF Amateur Astronomers - Lecture and Star Party Sat nearest 1Q Moon (see <a href="http://nightsky.jpl.nasa.gov/event-list.cfm?Club_ID=1104&amp;Address_ID=2720">Calendar</a>)<br /><img src="http://fc2.funcheapsf.netdna-cdn.com/wp-content/uploads/2011/03/star-gazing-party-250x175.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.612701,37.910583,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Point Lobos Star Party (SFAA)</name>
+    <description><![CDATA[San Francisco, Lands End - <a href="http://www.sfaa-astronomy.org/">SF Amateur Astronomers</a> - Star Party monthly Sat (see <a href="http://www.sfaa-astronomy.org/new_calendar.php">schedule</a>)<br /><img src="http://fc2.funcheapsf.netdna-cdn.com/wp-content/uploads/2009/11/citystarparty-300x185.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.511749,37.780968,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SETI Institute</name>
+    <description><![CDATA[Mountain View - <a href="http://www.seti.org">Search for Extra-Terrestrial Intelligence</a><br /><img src="http://aboutalien.com/wp-content/uploads/2011/08/9832seti.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.051376,37.386463,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sidewalk Astronomers</name>
+    <description><![CDATA[San Francisco, Randall Museum - <a href="http://www.sfsidewalkastronomers.org/">San Francisco Sidewalk Astronomers</a><br /><img src="http://www.sfsidewalkastronomers.org/uploads/images/logos/sfsa_logo.png" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.438133,37.764385,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stanford Dish</name>
+    <description><![CDATA[Palo Alto, Stanford <a href="http://dish.stanford.edu/">Dish</a><br ><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Dish%2C_Stanford_University.jpg/800px-The_Dish%2C_Stanford_University.jpg" style="width:229px">]]></description>
+    <Point>
+      <coordinates>-122.179565,37.408543,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stanford Student Observatory</name>
+    <description><![CDATA[Stanford, Palo Alto - <a href="http://www.stanford.edu/dept/astro/">Stanford Astronomy</a><br /><img src="http://www.iscap.columbia.edu/jank/Photo/Astro/Stanford_Observatory/Stanford_Observatory.jpg" style="width:244px">]]></description>
+    <Point>
+      <coordinates>-122.181755,37.419102,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
