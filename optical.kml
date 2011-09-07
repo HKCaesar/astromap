@@ -12,7 +12,7 @@
   </Placemark>
   <Placemark>
     <name>South African Observatory SAAO (1 450m) IAU B31</name>
-    <description><![CDATA[Sutherland, Northern Cape, Africa | SALT 11m, Radcliffe 1.9m | Near-Earth Objects, Extra-solar Planets | <a href="http://www.saao.ac.za/">www.saao.ac.za</a><br /><img src="http://www.sa-venues.com/things-to-do/northerncape/images/salt-sutherland.jpg" style="width:240px">]]></description>
+    <description><![CDATA[Sutherland, Northern Cape, Africa | SALT 11m, Radcliffe 1.9m, SuperWASP | National Research Foundation of South Africa | Near-Earth Objects, Extra-solar Planets, Photometry, Infrared Imaging | <a href="http://www.saao.ac.za/">www.saao.ac.za</a><br /><img src="http://www.sa-venues.com/things-to-do/northerncape/images/salt-sutherland.jpg" style="width:240px">]]></description>
     <Point>
       <coordinates>20.810499,-32.378300,1450</coordinates>
     </Point>
