@@ -251,14 +251,14 @@
   </Placemark>
   <Placemark>
     <name>Arecibo Observatory (504m) IAU 251</name>
-    <description><![CDATA[Arecibo, Puerto Rico | 305m single-dish | Cornell University, NSF, SRI | Pulsars, Asteroids, Extra-solar Planets, Space Surveillance, SETI, Arecibo message<br><img src="http://www.naic.edu/public/about/photos/hires/ao004.jpg" style="width:244px">]]></description>
+    <description><![CDATA[Arecibo, Puerto Rico | 305m single-dish | Cornell University, NSF, SRI | Pulsars, Asteroids, Extra-solar Planets, Space Surveillance, SETI, Arecibo message | <a href="http://www.naic.edu/">www.naic.edu</a><br><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Arecibo_Observatory_Aerial_View.jpg/757px-Arecibo_Observatory_Aerial_View.jpg" style="width:244px">]]></description>
     <Point>
       <coordinates>-66.752777,18.344168,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Effelsberg Radio Telescope (319m)</name>
-    <description><![CDATA[Effelsberg, North Rhine-Westphalia, Germany |&nbsp;100m single-dish |&nbsp;Max Planck Institute for Radio Astronomy | Pulsars, Nebulae, Stellar Formation, Quasars<br><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Radioteleskop_20110820.jpg/800px-Radioteleskop_20110820.jpg" style="width:244px">]]></description>
+    <description><![CDATA[Effelsberg, North Rhine-Westphalia, Germany |&nbsp;100m single-dish |&nbsp;Max Planck Institute for Radio Astronomy | Pulsars, Nebulae, Stellar Formation, Quasars | <a href="http://www.mpifr-bonn.mpg.de/div/effelsberg/">www.mpifr-bonn.mpg.de</a><br><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Radioteleskop_20110820.jpg/800px-Radioteleskop_20110820.jpg" style="width:244px">]]></description>
     <Point>
       <coordinates>6.882778,50.524723,0.000000</coordinates>
     </Point>
@@ -370,7 +370,7 @@
   </Placemark>
   <Placemark>
     <name>Llano de Chajnantor (5 104m) IAU I16</name>
-    <description><![CDATA[Atacama Desert, Chile | CBI2 1.4mx13, ASTE 10m, APEX 12m, NANTEN2 4m, ACT 6m, QUIET 2mx3+7m, TAO 5mx6, ALMA 12mx50 | International Consortium | Submillimeter Radio Astronomy <br> <img src="http://almaobservatory.org/gallery2/main.php?g2_view=core.DownloadItem&amp;g2_itemId=3268&amp;g2_serialNumber=4" style="width:240px">]]></description>
+    <description><![CDATA[Atacama Desert, Chile | CBI2 1.4mx13, ASTE 10m, APEX 12m, NANTEN2 4m, ACT 6m, QUIET 2mx3+7m, TAO 5mx6, ALMA 12mx50 | International Consortium | Submillimeter Radio Astronomy | <a href="http://www.iac.es/gabinete/orm/teles1.html">www.iac.es</a><br> <img src="http://upload.wikimedia.org/wikipedia/commons/2/27/Ing_telescopes_sunset_la_palma_july_2001.jpg" style="width:240px">]]></description>
     <Point>
       <coordinates>-67.754997,-23.022778,5104</coordinates>
     </Point>
