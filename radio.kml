@@ -124,7 +124,7 @@
   </Placemark>
   <Placemark>
     <name>Llano de Chajnantor (5 104m) IAU I16</name>
-    <description><![CDATA[Atacama Desert, Chile | CBI2 1.4mx13, ASTE 10m, APEX 12m, NANTEN2 4m, ACT 6m, QUIET 2mx3+7m, TAO 5mx6, ALMA 12mx50 | International Consortium | Submillimeter Radio Astronomy | <a href="http://www.iac.es/gabinete/orm/teles1.html">www.iac.es</a><br> <img src="http://upload.wikimedia.org/wikipedia/commons/2/27/Ing_telescopes_sunset_la_palma_july_2001.jpg" style="width:240px">]]></description>
+    <description><![CDATA[Atacama Desert, Chile | CBI2 1.4mx13, ASTE 10m, APEX 12m, NANTEN2 4m, ACT 6m, QUIET 2mx3+7m, TAO 5mx6, ALMA 12mx50 | International Consortium | Submillimeter Radio Astronomy | <a href="http://www.iac.es/gabinete/orm/teles1.html">www.iac.es</a><br> <img src="http://www.eso.org/public/archives/images/medium/alma-14-ants-aos-3.jpg" style="width:240px">]]></description>
     <Point>
       <coordinates>-67.754997,-23.022778,5104</coordinates>
     </Point>
