@@ -5,7 +5,7 @@
   <description><![CDATA[http://github.com/siznax/astromap]]></description>
   <Placemark>
     <name>Mount Graham Observatory MGIO (3 191m) IAU G83</name>
-    <description><![CDATA[Mount Graham, Arizona USA | LBT 8.4m x 2, HHST 10m, VATT 1.8m | Gamma-ray Bursts, Pulsars, Galaxies, Dark Matter, Asteroids, Trans-Neptunian Objects, Submillimeter Radio | <a href="http://mgpc3.as.arizona.edu/">mgpc3.as.arizona.edu</a><br /><img src="http://thewittyastronomers.files.wordpress.com/2011/08/lbt.jpg" style="width:240px">]]></description>
+    <description><![CDATA[Mount Graham, Arizona USA | LBT 8.4m x 2, HHST 10m, VATT 1.8m | Gamma-ray Bursts, Pulsars, Galaxies, Dark Matter, Asteroids, Trans-Neptunian Objects, Submillimeter Radio | <a href="http://mgpc3.as.arizona.edu/">mgpc3.as.arizona.edu</a><br /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LargeBinoTelescope_NASA.jpg/320px-LargeBinoTelescope_NASA.jpg" style="width:240px">]]></description>
     <Point>
       <coordinates>-109.892014,32.701302,3191</coordinates>
     </Point>
