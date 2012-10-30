@@ -54,7 +54,7 @@
   </Placemark>
   <Placemark>
     <name>McDonald Observatory (2 103m) IAU 711</name>
-    <description><![CDATA[Fort Davis, Texas USA | HET 9.2m, HJST 2.7m, OST 2.1 | Imaging, Spectroscopy, Lunar Laser Ranging | <a href="http://www.as.utexas.edu/mcdonald/mcdonald.html">www.as.utexas.edu</a><br /><img src="http://mcdonaldobservatory.org/images/research/waad/d_mcd-1.jpg" style="width:240px">]]></description>
+    <description><![CDATA[Fort Davis, Texas USA | HET 9.2m, HJST 2.7m, OST 2.1 | Imaging, Spectroscopy, Lunar Laser Ranging | <a href="http://www.as.utexas.edu/mcdonald/mcdonald.html">www.as.utexas.edu</a><br /><img src="http://www.as.utexas.edu/imgs/het_primary.jpg" style="width:240px">]]></description>
     <Point>
       <coordinates>-104.022499,30.671389,2103</coordinates>
     </Point>
