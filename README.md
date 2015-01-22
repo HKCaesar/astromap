@@ -1,20 +1,22 @@
-# astromap
+# Astromap
 
-geocoded location, altitude, IAU code, principal instruments, 
-organization, targets/science, website, and photo of selected 
-astronomical observatories. "optical.kml" and "radio.kml" are
+Geocoded location, altitude, IAU code, principal instruments,
+organization, targets/science, website, and photo of selected
+astronomical observatories. "optical.kml" and "radio.kml" are 
 merged into "astromap.kml".
 
- *  astromap is not a map. it's a description of places in KML
-    which can be loaded into many mapping applications, e.g.
-    Google Maps or Bing Maps.
- *  it does not contain all known telescopes, nor even all 
-    known observatories. it's a selection of major observatories
-    often hosting many telescopes.
- *  it is intended to complement [more complete][1] observatory 
-    maps and lists with more or less information in a short 
-    summary and a photo.
- *  it is a subset (but hopefully representative) of:
+Astromap is not a map.
+
+ *  It's a description of places in KML which can be loaded into many
+    mapping applications (see _Map Visualizers_ below)
+ *  It does not contain all known telescopes, nor even all known
+    observatories. it's a selection of major observatories often
+    hosting many telescopes.
+ *  It is intended to complement [more
+    complete](http://www.eso.org/~ndelmott/obs_sites.html) observatory
+    maps and lists with more or less information in a short summary
+    and a photo.
+ *  It is a subset (but hopefully representative) of:
     *  List of Observatories, Wikipedia
     *  List of largest optical reflecting telescopes, Wikipedia
     *  List of largest optical refracting telescopes, Wikipedia
@@ -22,56 +24,27 @@ merged into "astromap.kml".
     *  Large Telescopes, Nine Planets
     *  Historic Astronomical Sites, NOAO
 
-[1]: http://www.eso.org/~ndelmott/obs_sites.html
+### Format
 
-
-# format
-
-observatory names have the form:
+Observatory names have the form:
 
     name | elevation in meters | [IAU code]
 
-observatory descriptions have the form:
+Observatory descriptions have the form:
 
     location | instruments | organization | mission | website
 
+## Map Visualizers
 
-# you can help
+* [Map Stack](http://mapstack.stamen.com/) by Stamen
+* [CartoDB](https://cartodb.com/)
+* Astromap in [Google map](http://maps.google.com/maps?q=https://raw.github.com/siznax/astromap/master/astromap.kml)
+* Astromap in [Bing map](http://www.bing.com/maps/?mapurl=https://raw.github.com/siznax/astromap/master/astromap.kml)
 
-if you would like to point out an error, ommission, improvement, 
-or can contribute a translation, please let me know.
-
-if you are a programmer, you can make contributions by forking 
-this code and submitting a patch via Github.
+_Corrections and contributions welcome!_
 
 
-# F.A.Q.
-
-## where can I download the astromap KML directly?
-
-<https://raw.github.com/siznax/astromap/master/astromap.kml>
-
-## how can i view the map in Google Maps?
-
-there are at least three ways, you can
-
-1. Specify the KML file as a query parameter.
-   eg. <http://maps.google.com/maps?q=https://raw.github.com/siznax/astromap/master/astromap.kml>, or 
-2. create a map in "My Places" and import the _astromap_ KML file, or 
-3. create an HTML page with <code>google.maps.KmlLayer(kml)</code>
-   see eg/layer-google.html
-
-## how can i view the map in Bing Maps?
-
-there are at least three ways. you can
-
-1. Specify the KML file as a query parameter.
-   eg. <http://www.bing.com/maps/?mapurl=https://raw.github.com/siznax/astromap/master/astromap.kml>, or 
-2. specify a Google map URL as a query parameter
-   <code>http://www.bing.com/maps/?mapurl={gmap_url}</code>, or
-3. create an HTML page with <code>VEShapeSourceSpecification</code>
-   see eg/layer-bing.html
-
-## where is the KMZ file?
-
-1. You can create one on GPS Visualizer from the KML file.
+<iframe width='100%' height='520' frameborder='0'
+src='http://siznax.cartodb.com/viz/42ff482c-a1c6-11e4-9a61-0e0c41326911/embed_map'
+allowfullscreen webkitallowfullscreen mozallowfullscreen
+oallowfullscreen msallowfullscreen></iframe>
