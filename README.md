@@ -34,7 +34,7 @@ Observatory descriptions have the form:
 
     location | instruments | organization | mission | website
 
-## Map Visualizers
+Try Astromap in one of these visualizers:
 
 * [Map Stack](http://mapstack.stamen.com/) by Stamen
 * [CartoDB](https://cartodb.com/)
@@ -44,7 +44,4 @@ Observatory descriptions have the form:
 _Corrections and contributions welcome!_
 
 
-<iframe width='100%' height='520' frameborder='0'
-src='http://siznax.cartodb.com/viz/42ff482c-a1c6-11e4-9a61-0e0c41326911/embed_map'
-allowfullscreen webkitallowfullscreen mozallowfullscreen
-oallowfullscreen msallowfullscreen></iframe>
+[![CartoDB example](https://raw.githubusercontent.com/siznax/astromap/master/examples/screenshot.png)](https://siznax.cartodb.com/viz/42ff482c-a1c6-11e4-9a61-0e0c41326911/public_map)
