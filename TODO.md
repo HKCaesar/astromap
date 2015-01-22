@@ -1,8 +1,9 @@
 Astromap TODO list
 ==================
 
+* make source data human readable and editable.
 * upload description images to archive.org (full and thumbnails)
-* distinguish between optial/radio in astromap.kml
+* eliminate separate optical, radio files
 * do more in CartoDB:
     * color by altitude
     * icons/shapes for optical, radio

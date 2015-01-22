@@ -1,9 +1,10 @@
 # Astromap
 
-Geocoded location, altitude, IAU code, principal instruments,
-organization, targets/science, website, and photo of selected
-astronomical observatories. "optical.kml" and "radio.kml" are 
-merged into "astromap.kml".
+Geocoded location, altitude, [IAU
+code](http://www.minorplanetcenter.net/iau/lists/ObsCodesF.html),
+principal instruments, organization, targets/science, website, and
+photo of selected astronomical observatories. "optical.kml" and
+"radio.kml" are merged into "astromap.kml".
 
 Astromap is not a map.
 
@@ -28,11 +29,11 @@ Astromap is not a map.
 
 Observatory names have the form:
 
-    name | elevation in meters | [IAU code]
+    name (elevation) IAU code
 
 Observatory descriptions have the form:
 
-    location | instruments | organization | mission | website
+    location | instruments | organizations | science | URL
 
 Try Astromap in one of these visualizers:
 
