@@ -37,8 +37,8 @@ Observatory descriptions have the form:
 
 Try Astromap in one of these visualizers:
 
-* [Map Stack](http://mapstack.stamen.com/) by Stamen
 * [CartoDB](https://cartodb.com/)
+* [Map Stack](http://mapstack.stamen.com/) by Stamen
 * Astromap in [Google map](http://maps.google.com/maps?q=https://raw.github.com/siznax/astromap/master/astromap.kml)
 * Astromap in [Bing map](http://www.bing.com/maps/?mapurl=https://raw.github.com/siznax/astromap/master/astromap.kml)
 
